@@ -1,7 +1,3 @@
-
-# Image-to-Text
-Internship Project
-=======
 # Image to Text 
 
 You can directly run IMG-to-Text in Linux distro
